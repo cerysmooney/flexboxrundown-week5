@@ -13,12 +13,16 @@ h1 {
 }
 header {
     background-color: hotpink;
-    padding: 10px 0px 10px 0px;
-    
-    
-    
+    padding: 10px 0px 10px 0px;  
 }
-
+ul {
+    list-style-type: none;
+    padding: 5px;
+}
+.container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 /* section one flex grow and shrink */
 
