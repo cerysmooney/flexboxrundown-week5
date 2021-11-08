@@ -6,10 +6,15 @@ body{
 }
 
 /* header sytles */
-
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
 header {
     background-color: hotpink;
     padding: 10px 0px 10px 0px;
+    
     
     
 }
