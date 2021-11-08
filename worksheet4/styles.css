@@ -19,6 +19,9 @@ ul {
     list-style-type: none;
     padding: 5px;
 }
+.push {
+    margin-left: auto;
+}
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
@@ -42,6 +45,36 @@ ul {
     flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: space-between;
+}
+.container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
 }
 
 /* section one flex grow and shrink */
