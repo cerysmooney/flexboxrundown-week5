@@ -143,7 +143,10 @@ li {
     justify-content: center;
 
 }
-
+.section-three {
+    display: flex;
+    flex-wrap: wrap;
+}
 iframe { 
     padding: 5px;
     
