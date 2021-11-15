@@ -194,7 +194,7 @@ button {
     transition-duration: .4s;
 }
 button:hover {
-    background-color: limegreen;
+    background-color: #ffd580;
     color: white;
 }
 button:active {
