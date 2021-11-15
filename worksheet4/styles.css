@@ -194,3 +194,7 @@ button {
     margin: 2px;
     transition-duration: .4s;
 }
+button:hover {
+    background-color: limegreen;
+    color: white
+}
