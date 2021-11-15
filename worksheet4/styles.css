@@ -203,7 +203,7 @@ button:active {
     transform: translateY(4px);
 }
 footer {
-    background-color: rebeccapurple;
+    background-color: #f29f05;
     height: 30px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -213,7 +213,7 @@ footer {
 }
 
 .button-one-section {
-    background-color: cornflowerblue;
+    background-color: #bf0426;
     padding: 20px 0px;
     display: flex;
     justify-content: center;
