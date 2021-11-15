@@ -125,7 +125,7 @@ li {
 /* section 2 center item */
 
 .section-two {
-    background-color: orangered;
+    background-color: #bf0426;
     height: 700px;
     display: flex;
     align-items: center;
@@ -136,7 +136,7 @@ li {
 /* section 3 youtube video */
 
 .section-three {
-    background-color: lightcoral;
+    background-color: #D95A11;
     height: 800px;
     display: flex;
     align-items: center;
@@ -156,7 +156,7 @@ iframe {
 /* section 4 embed audio */
 
 .section-four {
-    background-color: darkslateblue;
+    background-color: #bf0426;
     height: 500px;
     display: flex;
     align-items: center;
@@ -166,7 +166,7 @@ iframe {
 /* section 5 media items */
 
 .section-five {
-    background-color: goldenrod;
+    background-color: #d95A11;
 
 }
 .media-container {
