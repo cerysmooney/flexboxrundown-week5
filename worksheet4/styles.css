@@ -98,7 +98,7 @@ li {
 }
 
 .box1 {
-    background-color: skyblue;
+    background-color: #fdb35a;
     
     height: 200px;
     flex: 1 1 auto;
@@ -107,7 +107,7 @@ li {
 
 .box2 {
 
-    background-color: lightgreen;
+    background-color: #fdbb6d;
     
     height: 200px;
     flex: 2 1 auto;
@@ -115,7 +115,7 @@ li {
 
 .box3 {
 
-    background-color: darkmagenta;
+    background-color: #fec47f;
     
     height: 200px;
     flex: 1 1 auto;
